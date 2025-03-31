@@ -1,0 +1,45 @@
+# Core Packages
+streamlit==1.32.0
+numpy==1.26.0
+pandas==2.1.0
+python-dotenv==1.0.0
+Pillow==10.0.1
+python-docx==0.8.11
+uuid==1.30
+
+# Database
+sqlite3==2.6.0
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.0
+
+# AI/ML
+google-generativeai==0.3.2
+openai==1.3.5
+nltk==3.8.1
+
+# PDF Processing
+PyPDF2==3.0.1
+reportlab==4.0.4
+
+# Audio/Video
+opencv-python==4.8.0.76
+SpeechRecognition==3.10.0
+streamlit-webrtc==0.47.1
+av==10.0.0
+
+# Translation
+googletrans==4.0.0-rc1
+
+# Utilities
+unicodedata2==15.0.0
+pyzipfile==0.1.4
+
+#Install NLTK data: python -c import nltk; nltk.download('vader_lexicon')
+
+#For streamlit-webrtc, ensure FFmpeg is installed on your system:
+	#Windows: Download from https://ffmpeg.org/
+	#Mac: brew install ffmpeg
+	#Linux: sudo apt-get install ffmpeg
+
