@@ -1,6 +1,6 @@
 # ACE HIRE - AI Interview Preparation Platform
 
-<img src="Ace_Hire" alt="Alt Text" width="200" height="200" text-align=center>
+<img src="Ace_Hire.jpg" alt="Alt Text" width="200" height="200" text-align=center>
 
 Become an ACE HIRE today - your gateway to interview success with AI-powered practice sessions and feedback.
 
